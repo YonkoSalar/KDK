@@ -16,7 +16,7 @@
 				<br>
 				<hr>
 		
-				<input type="submit" class="btn btn-lg btn-block btn-primary">Logg inn</input>
+				<input type="submit" class="btn btn-lg btn-block btn-primary"></input>
 			</form>
 		
 		</div>
